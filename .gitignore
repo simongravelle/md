@@ -1,0 +1,5 @@
+# code
+.vscode
+.venv/
+**/.ipynb_checkpoints
+**/build
