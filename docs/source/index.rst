@@ -8,6 +8,7 @@ Struggling with a molecular simulation project?
     :target: https://www.patreon.com/molecularsimulations
 
 Join me as a |patreon| and:
+
 - get personalized support,
 - access a dedicated Discord channel,
 - join a community of about 150 users,
