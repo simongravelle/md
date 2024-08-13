@@ -7,12 +7,12 @@ Struggling with a molecular simulation project?
     :align: right
     :target: https://www.patreon.com/molecularsimulations
 
-Join me as a |patreon| and get your questions answered directly in a
-dedicated Discord channel. From there, you can also
-
-- get your inputs and files revised
-- receive general advice
-- request online classes on-demand
+Join me as a |patreon| and:
+- get personalized support,
+- access a dedicated Discord channel,
+- join a community of about 150 users,
+- get your inputs and files revised,
+- request online classes on-demand.
 
 Support the creation of content for molecular simulations
 ---------------------------------------------------------
