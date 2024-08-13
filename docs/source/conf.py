@@ -20,12 +20,7 @@ html_theme = 'furo'
 html_title = "    "
 
 html_static_path = ['_static']
-html_css_files = ["custom.css"]
 
 pygments_style = 'tango'
 
 source_suffix = ['.rst']
-
-html_show_copyright = False
-html_show_sphinx = False
-html_short_title = "True"
